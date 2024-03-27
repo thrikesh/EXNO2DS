@@ -24,6 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 ```
+## NAME: THRIKESWAR
+## REGISTER NUMBER: 212222230162
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
